@@ -1,0 +1,1 @@
+# ATT-CK-aligned-threat-hunting-scripts
