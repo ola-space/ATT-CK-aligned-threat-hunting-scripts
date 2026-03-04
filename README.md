@@ -143,6 +143,13 @@ Credential compromise is a strategic objective, supporting domain-level access a
 The combined layer demonstrates that although each actor has distinct operational characteristics, several techniques are reused across campaigns. These overlapping techniques represent critical monitoring and detection opportunities for organizations operating within the Information Services sector.
 
 
+---
+
+## Author
+**Olanipekun Babatunde**  
+Cybersecurity Analyst
+
+
 
 
 
